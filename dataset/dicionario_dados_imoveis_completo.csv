@@ -1,0 +1,20 @@
+Variável,Descrição,Tipo,Subtipo
+id,Identificador único do imóvel,quantitativa,contínua
+data_venda,Data em que o imóvel foi vendido,qualitativa,ordinal
+preco,Preço de venda do imóvel (em dólares),quantitativa,contínua
+quartos,Número de quartos no imóvel,quantitativa,discreta
+banheiros,Número de banheiros no imóvel,quantitativa,contínua
+m2_construido_total,Área construída total em metros quadrados,quantitativa,contínua
+m2_terreno_total,Área total do terreno em metros quadrados,quantitativa,contínua
+andares,Número de andares do imóvel,quantitativa,discreta
+beira-mar,"1 se o imóvel tem frente para água, 0 caso contrário",qualitativa,nominal
+vista_geral,Nível de vista geral do imóvel (0 a 4),qualitativa,ordinal
+condicao,Condição geral do imóvel (1 a 5),qualitativa,ordinal
+nivel_construcao,Classificação da construção (1 a 13),qualitativa,ordinal
+m2_construidos_chao,Área construída acima do solo (m²),quantitativa,contínua
+m2_porao,Área do porão (m²),quantitativa,contínua
+ano_construído,Ano em que o imóvel foi construído,quantitativa,discreta
+ano_reformado,Ano da última reforma (0 se nunca reformado),quantitativa,discreta
+cep,Código postal da localização do imóvel,qualitativa,nominal
+latitude,Latitude geográfica do imóvel,quantitativa,contínua
+longitude,Longitude geográfica do imóvel,quantitativa,contínua
